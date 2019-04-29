@@ -19,4 +19,7 @@
     <string name="string_thirteen">Nullam sagittis. Praesent turpis. Ut leo. Fusce commodo aliquam arcu.</string>
     <string name="string_fourteen">Sed augue ipsum, egestas nec, vestibulum et, malesuada adipiscing, dui. Vestibulum eu odio. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit.</string>
     <string name="string_fifteen">Fusce convallis metus id felis luctus adipiscing. Nullam quis ante. Suspendisse eu ligula.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
