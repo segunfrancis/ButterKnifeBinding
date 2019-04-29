@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ButterKnife And Fragments</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="display_fragment">Display Fragment</string>
+
+    <!-- Project Strings -->
+    <string name="string_one">Sed libero. Maecenas tempus, tellus eget condimentum rhoncus.</string>
+    <string name="string_two">Donec mollis hendrerit risus. Sed libero. Fusce commodo aliquam arcu.</string>
+    <string name="string_three">Nunc sed turpis. Ut a nisl id ante tempus hendrerit. Quisque ut nisi.</string>
+    <string name="string_four">Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Proin magna. Morbi vestibulum volutpat enim.</string>
+    <string name="string_five">Praesent ut ligula non mi varius sagittis. Praesent ut ligula non mi varius sagittis. Phasellus tempus.</string>
+    <string name="string_six">Suspendisse potenti. Vestibulum fringilla pede sit amet augue. Quisque rutrum.</string>
+    <string name="string_seven">Nam eget dui. Sed hendrerit. Integer tincidunt. Nam at tortor in tellus interdum sagittis.</string>
+    <string name="string_eight">Fusce convallis metus id felis luctus adipiscing. Nullam quis ante. Suspendisse eu ligula.</string>
+    <string name="string_nine">Curabitur a felis in nunc fringilla tristique. Suspendisse non nisl sit amet velit hendrerit rutrum. Nam pretium turpis et arcu.</string>
+    <string name="string_ten">Etiam feugiat lorem non metus. Praesent venenatis metus at tortor pulvinar varius. Nulla porta dolor.</string>
+    <string name="string_eleven">Fusce convallis metus id felis luctus adipiscing. Nullam quis ante. Suspendisse eu ligula.</string>
+    <string name="string_twelve">Fusce commodo aliquam arcu. Duis vel nibh at velit scelerisque suscipit. Sed augue ipsum, egestas nec, vestibulum et, malesuada adipiscing, dui.</string>
+    <string name="string_thirteen">Nullam sagittis. Praesent turpis. Ut leo. Fusce commodo aliquam arcu.</string>
+    <string name="string_fourteen">Sed augue ipsum, egestas nec, vestibulum et, malesuada adipiscing, dui. Vestibulum eu odio. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit.</string>
+    <string name="string_fifteen">Fusce convallis metus id felis luctus adipiscing. Nullam quis ante. Suspendisse eu ligula.</string>
+</resources>
