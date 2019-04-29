@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ButterKnife And Fragments</string>
     <string name="sample_text">Sample Text</string>
-    <string name="display_fragment">Display Fragment</string>
+    <string name="next_activity">Next Activity</string>
 
     <!-- Project Strings -->
     <string name="string_one">Sed libero. Maecenas tempus, tellus eget condimentum rhoncus.</string>

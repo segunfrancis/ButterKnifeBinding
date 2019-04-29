@@ -7,15 +7,6 @@
     android:orientation="vertical"
     tools:context=".RecyclerViewFragment">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
-        android:layout_marginBottom="16dp"
-        android:text="@string/sample_text"
-        android:textAppearance="@style/TextAppearance.AppCompat.Headline"/>
-
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"

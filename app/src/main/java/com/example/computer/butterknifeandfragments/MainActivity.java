@@ -1,5 +1,6 @@
 package com.example.computer.butterknifeandfragments;
 
+import android.content.Intent;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
@@ -29,11 +30,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                FragmentManager fragmentManager = getSupportFragmentManager();
-                RecyclerViewFragment fragment = new RecyclerViewFragment();
-                FragmentTransaction transaction = fragmentManager.beginTransaction();
-                transaction.add(R.id.fragment, fragment, "fragment");
-                transaction.commit();
+                startActivity(new Intent(MainActivity.this, SecondActivity.class));
             }
         });
     }
