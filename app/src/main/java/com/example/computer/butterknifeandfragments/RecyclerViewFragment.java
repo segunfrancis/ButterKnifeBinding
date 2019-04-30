@@ -99,13 +99,12 @@ public class RecyclerViewFragment extends Fragment {
         String[] descriptions = {one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen};
         Drawable[] images = {first, second, third, fourth, fifth, sixth, seventh, eightht, ninth, tenth, eleventh, twelfth, thirteenth, fourteenth};
 
-        for (int x = 0; x <= descriptions.length - 1; x ++) {
+        for (int x = 0; x <= images.length - 1; x++) {
             MyData myData = new MyData();
             myData.setDescription(descriptions[x]);
             myData.setImage(images[x]);
             myDataList.add(myData);
         }
-
 
         adapter = new MyAdapter(this.getContext(), myDataList);
         recyclerView.setAdapter(adapter);

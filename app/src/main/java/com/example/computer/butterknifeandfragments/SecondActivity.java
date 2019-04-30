@@ -15,7 +15,7 @@ public class SecondActivity extends AppCompatActivity {
         FragmentManager fragmentManager = getSupportFragmentManager();
         RecyclerViewFragment fragment = new RecyclerViewFragment();
         FragmentTransaction transaction = fragmentManager.beginTransaction();
-        transaction.add(android.R.id.content, fragment, "fragment");
+        transaction.replace(android.R.id.content, fragment, "fragment");
         transaction.commit();
     }
 }
